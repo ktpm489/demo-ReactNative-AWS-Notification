@@ -1,0 +1,9 @@
+https://medium.com/react-native-training/react-native-push-notifications-with-amazon-pinpoint-ios-b2efa89ced32
+https://medium.com/@Sendbird/react-native-chat-tutorial-1-build-a-chat-app-using-sendbird-12d762cf5fa8
+https://dashboard.sendbird.com/B7351849-DB7A-435D-9C14-89952510F0F1/overview
+https://dashboard.applozic.com/admin/dashboard.html#
+https://docs.aws.amazon.com/pinpoint/latest/developerguide/mobile-push-android.html
+https://console.firebase.google.com/u/0/project/demoaws-reactnaitve/overview
+https://aws.github.io/aws-amplify/media/push_notifications_setup
+https://console.aws.amazon.com/pinpoint/home/#/apps/0af96da8623b47159160d5b826b2633d/campaigns/create
+https://console.firebase.google.com/u/0/project/demoaws-reactnaitve/analytics/app/android:com.demoreactnativeawsnotify/streamview%3Ft=1&cs=app.m.streamview.overview&g=1

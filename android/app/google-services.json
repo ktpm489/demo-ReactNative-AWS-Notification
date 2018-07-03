@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "456297589244",
+    "firebase_url": "https://demoaws-reactnaitve.firebaseio.com",
+    "project_id": "demoaws-reactnaitve",
+    "storage_bucket": "demoaws-reactnaitve.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456297589244:android:4c46c7c19850ee2c",
+        "android_client_info": {
+          "package_name": "com.demoreactnativeawsnotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456297589244-0ot0jajschli1ih93hk82gebsorpr9mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcy8D7ZShjgXdFK6E4c_jR-fTvJUcujRY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
